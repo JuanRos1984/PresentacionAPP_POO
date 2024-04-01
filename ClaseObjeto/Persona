@@ -1,0 +1,14 @@
+using System;
+namespace ClaseObjeto
+{
+    public class Persona
+    {
+        public string nombre; //Atributo
+
+        public void Presentar() //Método
+        {
+            Console.WriteLine($"Hola, me llamo ${nombre}");
+        }
+
+    }
+}

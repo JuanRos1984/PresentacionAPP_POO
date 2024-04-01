@@ -1,0 +1,15 @@
+C:\APPDemos\Pilares\obj\Debug\net7.0\Pilares.csproj.AssemblyReference.cache
+C:\APPDemos\Pilares\obj\Debug\net7.0\Pilares.GeneratedMSBuildEditorConfig.editorconfig
+C:\APPDemos\Pilares\obj\Debug\net7.0\Pilares.AssemblyInfoInputs.cache
+C:\APPDemos\Pilares\obj\Debug\net7.0\Pilares.AssemblyInfo.cs
+C:\APPDemos\Pilares\obj\Debug\net7.0\Pilares.csproj.CoreCompileInputs.cache
+C:\APPDemos\Pilares\bin\Debug\net7.0\Pilares.exe
+C:\APPDemos\Pilares\bin\Debug\net7.0\Pilares.deps.json
+C:\APPDemos\Pilares\bin\Debug\net7.0\Pilares.runtimeconfig.json
+C:\APPDemos\Pilares\bin\Debug\net7.0\Pilares.dll
+C:\APPDemos\Pilares\bin\Debug\net7.0\Pilares.pdb
+C:\APPDemos\Pilares\obj\Debug\net7.0\Pilares.dll
+C:\APPDemos\Pilares\obj\Debug\net7.0\refint\Pilares.dll
+C:\APPDemos\Pilares\obj\Debug\net7.0\Pilares.pdb
+C:\APPDemos\Pilares\obj\Debug\net7.0\Pilares.genruntimeconfig.cache
+C:\APPDemos\Pilares\obj\Debug\net7.0\ref\Pilares.dll

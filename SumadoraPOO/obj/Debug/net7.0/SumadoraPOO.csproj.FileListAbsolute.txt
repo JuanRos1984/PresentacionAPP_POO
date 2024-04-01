@@ -1,0 +1,15 @@
+C:\APPDemos\SumadoraPOO\obj\Debug\net7.0\SumadoraPOO.csproj.AssemblyReference.cache
+C:\APPDemos\SumadoraPOO\obj\Debug\net7.0\SumadoraPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\APPDemos\SumadoraPOO\obj\Debug\net7.0\SumadoraPOO.AssemblyInfoInputs.cache
+C:\APPDemos\SumadoraPOO\obj\Debug\net7.0\SumadoraPOO.AssemblyInfo.cs
+C:\APPDemos\SumadoraPOO\obj\Debug\net7.0\SumadoraPOO.csproj.CoreCompileInputs.cache
+C:\APPDemos\SumadoraPOO\bin\Debug\net7.0\SumadoraPOO.exe
+C:\APPDemos\SumadoraPOO\bin\Debug\net7.0\SumadoraPOO.deps.json
+C:\APPDemos\SumadoraPOO\bin\Debug\net7.0\SumadoraPOO.runtimeconfig.json
+C:\APPDemos\SumadoraPOO\bin\Debug\net7.0\SumadoraPOO.dll
+C:\APPDemos\SumadoraPOO\bin\Debug\net7.0\SumadoraPOO.pdb
+C:\APPDemos\SumadoraPOO\obj\Debug\net7.0\SumadoraPOO.dll
+C:\APPDemos\SumadoraPOO\obj\Debug\net7.0\refint\SumadoraPOO.dll
+C:\APPDemos\SumadoraPOO\obj\Debug\net7.0\SumadoraPOO.pdb
+C:\APPDemos\SumadoraPOO\obj\Debug\net7.0\SumadoraPOO.genruntimeconfig.cache
+C:\APPDemos\SumadoraPOO\obj\Debug\net7.0\ref\SumadoraPOO.dll
