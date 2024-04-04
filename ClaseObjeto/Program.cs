@@ -6,7 +6,9 @@ namespace ClaseObjeto
     {
         static void Main(string[] args)
         {
-            Clase objeto = new Clase();
+            Clase objeto1 = new Clase();
+            Clase objeto2 = new Clase();
+            Clase objeto3 = new Clase();
 
             Persona persona1 = new Persona();
             persona1.nombre = "Maria";

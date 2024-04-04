@@ -6,14 +6,9 @@ namespace Pilares
     {
         static void Main(string[] args)
         {
-                Usuario user = new Usuario
-                {
-                    nombre = "Ana",
-                    fechaNacimiento = DateTime.Parse("2010-01-31")
-                };
-
-            System.Console.WriteLine(user.MostrarEdad());
-
+            Usuario user = new Usuario();
+            user.SetEdad(15);
+            System.Console.WriteLine(user.GetEdad());   
         }
     }
 }

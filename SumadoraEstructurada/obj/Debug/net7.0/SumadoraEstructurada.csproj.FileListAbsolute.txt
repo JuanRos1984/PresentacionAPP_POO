@@ -1,0 +1,15 @@
+c:\APPDemos\SumadoraEstructurada\bin\Debug\net7.0\SumadoraEstructurada.exe
+c:\APPDemos\SumadoraEstructurada\bin\Debug\net7.0\SumadoraEstructurada.deps.json
+c:\APPDemos\SumadoraEstructurada\bin\Debug\net7.0\SumadoraEstructurada.runtimeconfig.json
+c:\APPDemos\SumadoraEstructurada\bin\Debug\net7.0\SumadoraEstructurada.dll
+c:\APPDemos\SumadoraEstructurada\bin\Debug\net7.0\SumadoraEstructurada.pdb
+c:\APPDemos\SumadoraEstructurada\obj\Debug\net7.0\SumadoraEstructurada.GeneratedMSBuildEditorConfig.editorconfig
+c:\APPDemos\SumadoraEstructurada\obj\Debug\net7.0\SumadoraEstructurada.AssemblyInfoInputs.cache
+c:\APPDemos\SumadoraEstructurada\obj\Debug\net7.0\SumadoraEstructurada.AssemblyInfo.cs
+c:\APPDemos\SumadoraEstructurada\obj\Debug\net7.0\SumadoraEstructurada.csproj.CoreCompileInputs.cache
+c:\APPDemos\SumadoraEstructurada\obj\Debug\net7.0\SumadoraEstructurada.sourcelink.json
+c:\APPDemos\SumadoraEstructurada\obj\Debug\net7.0\SumadoraEstructurada.dll
+c:\APPDemos\SumadoraEstructurada\obj\Debug\net7.0\refint\SumadoraEstructurada.dll
+c:\APPDemos\SumadoraEstructurada\obj\Debug\net7.0\SumadoraEstructurada.pdb
+c:\APPDemos\SumadoraEstructurada\obj\Debug\net7.0\SumadoraEstructurada.genruntimeconfig.cache
+c:\APPDemos\SumadoraEstructurada\obj\Debug\net7.0\ref\SumadoraEstructurada.dll

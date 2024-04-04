@@ -1,8 +1,8 @@
-using System
+using System;
 
 namespace ClaseObjeto
 {
-    class Producto
+    public class Producto
     {
         public string nombre;
         public decimal precio;

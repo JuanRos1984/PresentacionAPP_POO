@@ -1,4 +1,4 @@
-using System
+using System;
 
 namespace ClaseObjeto
 {
@@ -7,6 +7,5 @@ namespace ClaseObjeto
         public string codigo;
         public string nombre;
         public string cargo;
-        
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\APPDemos\\SumadoraEstructurada\\SumadoraEstructurada.csproj": {}
+    "c:\\APPDemos\\SumadoraEstructurada\\SumadoraEstructurada.csproj": {}
   },
   "projects": {
-    "C:\\APPDemos\\SumadoraEstructurada\\SumadoraEstructurada.csproj": {
+    "c:\\APPDemos\\SumadoraEstructurada\\SumadoraEstructurada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\APPDemos\\SumadoraEstructurada\\SumadoraEstructurada.csproj",
+        "projectUniqueName": "c:\\APPDemos\\SumadoraEstructurada\\SumadoraEstructurada.csproj",
         "projectName": "SumadoraEstructurada",
-        "projectPath": "C:\\APPDemos\\SumadoraEstructurada\\SumadoraEstructurada.csproj",
+        "projectPath": "c:\\APPDemos\\SumadoraEstructurada\\SumadoraEstructurada.csproj",
         "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-        "outputPath": "C:\\APPDemos\\SumadoraEstructurada\\obj\\",
+        "outputPath": "c:\\APPDemos\\SumadoraEstructurada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: SumadoraEstructurada",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\SumadoraEstructurada\\SumadoraEstructurada.csproj",
+            "launchConfigurationId": "TargetFramework=;SumadoraEstructurada"
+        }
+    ]
+}

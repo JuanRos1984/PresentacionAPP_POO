@@ -4,7 +4,10 @@ namespace Pilares
     public class Usuario
     {
         private string nombre;
-        private DateTime fechaNacimiento;
+        private int edad;
+
+        //Mostrar que no a todos los atributos hay que hacerles getter y setter
+        //Mostrar uso de this
 
 
         public string Getnombre()
@@ -18,19 +21,13 @@ namespace Pilares
             this.nombre = nombre;
         }
 
-        public string GetFechaNacimiento()
+        public int GetEdad()
         {
-            return fechaNacimiento;
+            return edad;
         }
-        public void SetFechaNacimiento(DateTime fecha)
+        public void SetEdad(int edad)
         {
-            fechaNacimiento = fecha;
+            this.edad = edad;
         }
-
-        public int MostrarEdad()
-        {
-            DateTime fechaActual = DateTime.Now;
-            return fechaActual.Year - fechaNacimiento.Year;
-        }   
     }
 }

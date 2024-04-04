@@ -14,6 +14,7 @@ namespace SumadoraPOO
             num2 = Convert.ToInt32(Console.ReadLine());
 
             Operaciones objetoOPeraciones = new Operaciones();
+            
             Console.WriteLine(objetoOPeraciones.Calcular(num1,num2));
         }
     }
