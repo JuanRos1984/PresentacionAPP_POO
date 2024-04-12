@@ -6,9 +6,10 @@ namespace Pilares
     {
         static void Main(string[] args)
         {
-            Usuario user = new Usuario();
-            user.SetEdad(15);
-            System.Console.WriteLine(user.GetEdad());   
+            MetodoVirtualTester tester = new MetodoVirtualTester();
+            tester.MetodoVirtual();
+            tester.MetodoConcreto();
+
         }
     }
 }
